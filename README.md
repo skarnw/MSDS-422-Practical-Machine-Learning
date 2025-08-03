@@ -1,5 +1,4 @@
 # MSDS 422: Practical Machine Learning
-<br>
 **Quarter** Summer 2025
 **Professor** Dr. Anil Chaturvedi
 **Team Members** Ayoola Ogunbona, Cody Padlo
